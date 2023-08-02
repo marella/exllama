@@ -1,0 +1,3 @@
+[submodule "submodules/exllama"]
+	path = submodules/exllama
+	url = https://github.com/turboderp/exllama
