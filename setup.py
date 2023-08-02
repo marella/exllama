@@ -4,7 +4,7 @@ name = "exllama"
 
 setup(
     name=name,
-    version="0.0.0",
+    version="0.1.0",
     packages=[name],
     package_data={name: ["exllama_ext/*", "exllama_ext/*/*", "exllama_ext/*/*/*"]},
     python_requires=">=3.9",
